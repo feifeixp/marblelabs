@@ -1,0 +1,5 @@
+{
+  "name": "MarbleLens AI Composer",
+  "description": "A high-performance 3D Gaussian Splat viewer using the PlayCanvas engine, featuring FPS navigation and GenAI synthesis.",
+  "requestFramePermissions": []
+}
